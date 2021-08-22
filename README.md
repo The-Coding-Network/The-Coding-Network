@@ -1,5 +1,7 @@
 # The-Coding-Network
 
+## NULL
+
 #[ ] --> Fix The-Coding-Network server (Roles, channels, user friendly)
 #[ ] --> Complete this website
 #[ ] --> Custom domain
