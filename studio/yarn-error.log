@@ -1,0 +1,67 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Administrator\AppData\Roaming\npm\node_modules\@sanity\cli\vendor\yarn install --json --non-interactive --ignore-engines --registry https://registry.npmjs.org
+
+PATH: 
+  C:\Users\Administrator\AppData\Roaming\npm\node_modules\vendor;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Python38\Scripts\;C:\Program Files\Python38\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-16.0.1\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\nodejs\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\AppData\Local\GitHubDesktop\bin;C:\Users\Administrator\AppData\Roaming\npm
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  16.6.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.npmjs.org/date-fns/-/date-fns-2.23.0.tgz: ESOCKETTIMEDOUT
+      at ClientRequest.<anonymous> (C:\Users\Administrator\AppData\Roaming\npm\node_modules\@sanity\cli\vendor\yarn:141406:19)
+      at Object.onceWrapper (node:events:513:28)
+      at ClientRequest.emit (node:events:394:28)
+      at TLSSocket.emitRequestTimeout (node:_http_client:761:9)
+      at Object.onceWrapper (node:events:513:28)
+      at TLSSocket.emit (node:events:406:35)
+      at TLSSocket.Socket._onTimeout (node:net:486:8)
+      at listOnTimeout (node:internal/timers:557:17)
+      at processTimers (node:internal/timers:500:7)
+
+npm manifest: 
+  {
+    "name": "studio",
+    "private": true,
+    "version": "1.0.0",
+    "description": "",
+    "main": "package.json",
+    "author": "User5029 <james@haswelluk.com>",
+    "license": "UNLICENSED",
+    "scripts": {
+      "start": "sanity start",
+      "build": "sanity build"
+    },
+    "keywords": [
+      "sanity"
+    ],
+    "dependencies": {
+      "@sanity/base": "^2.15.1",
+      "@sanity/components": "^2.14.0",
+      "@sanity/core": "^2.15.0",
+      "@sanity/default-layout": "^2.15.1",
+      "@sanity/default-login": "^2.15.0",
+      "@sanity/desk-tool": "^2.15.2",
+      "@sanity/vision": "^2.15.0",
+      "prop-types": "^15.7",
+      "react": "^17.0",
+      "react-dom": "^17.0"
+    },
+    "devDependencies": {},
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/The-Coding-Network/The-Coding-Network.git"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
