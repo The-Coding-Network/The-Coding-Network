@@ -9,9 +9,9 @@ function App() {
     <BrowserRouter>
     <NavBar />
       <Switch>
-        <Route component={Home} path='/' exact />
-        <Route component={About} path='/information' />
-        <Route component={Project} path='/project' />
+        <Route component={Home} path='/The-Coding-Network/' exact />
+        <Route component={About} path='/The-Coding-Network/information' />
+        <Route component={Project} path='/The-Coding-Network/project' />
       </Switch>
     </BrowserRouter>
   )

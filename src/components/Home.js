@@ -1,5 +1,5 @@
 import React from "react";
-import '../index.css'
+import '../App.css'
 
 export default function Home() {
   return (
@@ -9,7 +9,8 @@ export default function Home() {
           <h1 className="opacity-100 justify-center text-6xl text-green-100 font-bold cursive leading-none lg:leading-snug home-name">
             Welcome to The Coding<br/>Netowork's official website
           </h1>   
-          <h2>Hello ..... <br/> hello</h2>       
+          <h2 className="text-xl">Hello, this is The-Coding-Networks official website, this website is a little bare <br/>but we hope
+            to add alot more things to it in the furture</h2>       
         </section>
       </div>
     </main>

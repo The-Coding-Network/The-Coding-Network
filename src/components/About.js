@@ -15,11 +15,11 @@ export default function About() {
       <div className="p-10 lg:pt-34 container mx-auto relative">
         <section className="opacity-75 bg-gree-500 rounded-lg shadow-2x1 lg:flex p-20">
           <div className="text-lg flex flex-col justify-center">
-          <iframe id="849959313078485052" src="https://discord.com/widget?id=849959313078485052&theme=dark" width="350" height="400" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+          <iframe title="discord server widget" id="849959313078485052" src="https://discord.com/widget?id=849959313078485052&theme=dark" width="350" height="400" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
           </div>
           <div>
-            <iframe width="400" src="https://github-readme-stats.vercel.app/api?username=User5029&count_private=true&show_icons=true&theme=radical"></iframe>
-            <iframe width="400" src="https://github-readme-stats.vercel.app/api?username=MaxT-uk&count_private=true&show_icons=true&theme=radical"></iframe>
+            <iframe title="User5029 github stats" width="400" src="https://github-readme-stats.vercel.app/api?username=User5029&count_private=true&show_icons=true&theme=radical"></iframe>
+            <iframe title="MaxT-uk github stats"width="400" src="https://github-readme-stats.vercel.app/api?username=MaxT-uk&count_private=true&show_icons=true&theme=radical"></iframe>
             </div>
         </section>
       </div>
