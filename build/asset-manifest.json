@@ -1,8 +1,13 @@
 {
   "files": {
     "main.css": "/The-Coding-Network/static/css/main.c725980f.chunk.css",
+<<<<<<< Updated upstream
     "main.js": "/The-Coding-Network/static/js/main.9ba24f93.chunk.js",
     "main.js.map": "/The-Coding-Network/static/js/main.9ba24f93.chunk.js.map",
+=======
+    "main.js": "/The-Coding-Network/static/js/main.520b8f68.chunk.js",
+    "main.js.map": "/The-Coding-Network/static/js/main.520b8f68.chunk.js.map",
+>>>>>>> Stashed changes
     "runtime-main.js": "/The-Coding-Network/static/js/runtime-main.fd60b357.js",
     "runtime-main.js.map": "/The-Coding-Network/static/js/runtime-main.fd60b357.js.map",
     "static/js/2.74b42fa9.chunk.js": "/The-Coding-Network/static/js/2.74b42fa9.chunk.js",
@@ -17,6 +22,10 @@
     "static/js/runtime-main.fd60b357.js",
     "static/js/2.74b42fa9.chunk.js",
     "static/css/main.c725980f.chunk.css",
+<<<<<<< Updated upstream
     "static/js/main.9ba24f93.chunk.js"
+=======
+    "static/js/main.520b8f68.chunk.js"
+>>>>>>> Stashed changes
   ]
 }
